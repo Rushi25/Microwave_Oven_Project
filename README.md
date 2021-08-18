@@ -5,7 +5,7 @@ This repository contains all code and documentaion about the project.
 
 IDE used: MPLAB xIDE  
 Compiler used: XC8  
-Programming Language: Embedded C
+Programming Language: Embedded C  
 Simulator: PICSim LAB
 
 ### Links
