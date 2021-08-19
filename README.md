@@ -10,4 +10,4 @@ Simulator: PICSim LAB
 
 ### Links
 YouTube: https://youtu.be/B2PIOP2wBzw  
-Linkedin: 
+Linkedin: [post](https://www.linkedin.com/posts/rushikesh-gunjal-54781715a_embeddedsystems-microcontrollers-embeddedsystem-activity-6834053815726030849-rvrd)
