@@ -1,4 +1,4 @@
-# Micriwave_Oven_Project
+# Microwave_Oven_Project
 
 The project is based on PIC16F877A controller.  
 This repository contains all code and documentaion about the project.  
